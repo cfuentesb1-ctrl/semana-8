@@ -1,0 +1,10 @@
+1. EXPLICACIÓN DE LO QUE SUCEDIÓ EN MI COMPUTADOR:
+Al trabajar en un sistema operativo Windows a través de la terminal integrada de VS Code (PowerShell), el comando nativo de Linux 
+uname -a no es reconocido por el sistema, generando un error de comando inexistente. 
+systeminfo: Muestra un reporte completo de la computadora, incluyendo el nombre del sistema operativo (Windows), el tipo 
+de procesador, la cantidad de memoria RAM instalada, la fecha de instalación del sistema y los parches de seguridad que tiene cargados.
+
+
+'whoami': Muestra el nombre de la máquina seguido del usuario activo. En mi caso específico, el resultado fue "xxxxxx-\usuario",
+
+ lo que indica la identidad con la que estoy operando en la terminal.

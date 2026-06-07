@@ -1,0 +1,10 @@
+La seguridad digital en estas plataformas es súper importante porque, al final del día, todo se reduce a una sola palabra: confianza.
+
+Cuando un grupo de vecinos se organiza para reportar un problema en su barrio, lo hace con la buena fe de que su voz va a ser 
+escuchada. Si la plataforma no es segura y cualquiera puede entrar a borrar reportes, cambiar la información o, peor aún, robarse
+ los nombres, correos y números de teléfono de la gente, esa confianza se rompe de golpe. Nadie va a querer participar en un lugar
+ donde siente que está vigilado o expuesto.
+
+Además, hay que pensar en la continuidad de los procesos. Si un grupo de personas malintencionadas decide tumbar la página o 
+llenarla de reportes falsos mediante un ataque básico, la herramienta deja de ser útil para la comunidad y el canal de comunicación
+ con los líderes o las autoridades se rompe por completo.

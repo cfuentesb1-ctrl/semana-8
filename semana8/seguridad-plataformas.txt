@@ -1,0 +1,5 @@
+1. Moderación y validación de reportes
+2. Cifrado de contraseñas en la base de datos
+3.Copias de seguridad automáticas y externas (Backups)
+4.Roles de usuario bien definidos (Control de Accesos)
+5. Alertas de actividad sospechosa

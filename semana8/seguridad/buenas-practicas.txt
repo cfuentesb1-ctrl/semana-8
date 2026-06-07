@@ -1,0 +1,8 @@
+1. Usar el archivo .gitignore para proteger datos sensibles: Nunca subir a repositorios públicos como GitHub carpetas pesadas 
+(node_modules) o archivos con claves secretas (.env), para evitar que personas malintencionadas accedan al servidor.
+2. Controlar los permisos de acceso (Principio de menor privilegio): Asegurar que cada colaborador del proyecto tenga únicamente
+ los permisos necesarios para hacer su trabajo. Los usuarios comunes no deben tener acceso a la base de datos ni a las 
+configuraciones del sistema.
+3. Validar y limpiar los datos que envían los usuarios: No confiar ciegamente en lo que la comunidad escribe en los formularios.
+ El servidor debe revisar que los datos sean seguros antes de guardarlos para evitar que un atacante intente inyectar código 
+malicioso que dañe la plataforma.
